@@ -1,4 +1,4 @@
-
+<!-- Header -->
 <div align="center">
   <img src="welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
@@ -9,6 +9,7 @@
   
 </div>
 
+<!-- Social -->
 <table width="100%" align="center">
 <tr>
 <td align="center">
@@ -37,6 +38,11 @@
 </tr>
 </table>
 
+<!-- Footer -->
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="marquee.svg" />
+<br />
 
 
 
