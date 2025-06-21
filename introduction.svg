@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<svg width="500" height="200" xmlns="http://www.w3.org/2000/svg">
+   <text x="0" y="30" font-family="Comic Sans MS" font-size="20" fill="blue">
+   Hello my name is Lee and I like
+   </text>
+   <text x="294" y="30" font-family="Comic Sans MS" font-size="20" fill="blue">
+   	Python
+   	<animate attributeName="visibility" from="visible" to="hidden" dur="1s" repeatCount="indefinite" />
+   </text>
+</svg> 
+ 
+</body>
+</html>
