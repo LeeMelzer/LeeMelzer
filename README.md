@@ -1,13 +1,12 @@
-## Hi there 👋
 
 <div align="center">
   <img src="welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <!--<img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />-->
-  <p>My Name is Lee and I like Python</p>
+  <img height="50" alt="My Name is Lee and I like Python" src="introduction.svg" />
   <br />
   <br />
+  
 </div>
 
 <table width="100%" align="center">
